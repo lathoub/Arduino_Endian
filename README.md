@@ -43,4 +43,4 @@ void loop()
 Chipset | Platform | Endianess 
 --- | --- | ---
 ATmega | Nano Every | Little
-ESP32 | Adafruit ESP32 | Little
+ESP32 | Adafruit ESP32 Feather | Little
