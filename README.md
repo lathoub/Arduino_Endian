@@ -40,6 +40,7 @@ void loop()
 ```
 
 ## Endianess
-Hardware | Endianess 
---- | ---
-Nano Every | Little
+Chipset | Platform | Endianess 
+--- | --- | ---
+ATmega | Nano Every | Little
+ESP32 | Adafruit ESP32 | Little
