@@ -42,5 +42,5 @@ void loop()
 ## Endianess
 Chipset | Platform | Endianess 
 --- | --- | ---
-ATmega | Nano Every | Little
+ATMega4809 | Nano Every | Little
 ESP32 | Adafruit ESP32 Feather | Little
