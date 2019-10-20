@@ -38,3 +38,8 @@ void loop()
 {
 }
 ```
+
+## Endianess
+Hardware | Endianess 
+--- | ---
+Nano Every | Little
